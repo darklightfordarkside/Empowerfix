@@ -1,0 +1,2 @@
+PORT=3000
+mongodb+srv://davpiyush24:86427531@cluster0.ruvrnov.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
